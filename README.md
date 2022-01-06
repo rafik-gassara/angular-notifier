@@ -32,7 +32,7 @@ npm install angular-notifier
 The following list describes the compatibility with Angular:
 
 | Angular Notifier | Angular |
-| ---------------- | ------- |
+|------------------|---------|
 | `1.x`            | `2.x`   |
 | `2.x`            | `4.x`   |
 | `3.x`            | `5.x`   |
@@ -42,6 +42,8 @@ The following list describes the compatibility with Angular:
 | `7.x`            | `9.x`   |
 | `8.x`            | `10.x`  |
 | `9.x`            | `11.x`  |
+| `10.x`           | `12.x`  |
+| `11.x`           | `13.x`  |
 
 <br>
 
